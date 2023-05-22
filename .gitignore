@@ -856,3 +856,5 @@ Reference an issue or pull request
 HeroStateMachineExample/Assets/Logs.meta
 HeroStateMachineExample/Assets/Plugins/SimpleInput/ExtraResources.unitypackage.meta
 HeroStateMachineExample/Assets/Plugins/Zenject/Source/Zenject.csproj.meta
+HeroStateMachineExample/Assets/Resources/BillingMode.json
+HeroStateMachineExample/Assets/Resources/BillingMode.json.meta
