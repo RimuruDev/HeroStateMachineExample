@@ -27,3 +27,16 @@
     <img alt="GitHub user stars" src="https://img.shields.io/github/stars/RimuruDev?affiliations=OWNER&branch=main&label=User%20Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat">
   </a>
 </p>
+
+# Input:
+- Move:  WASD
+- Run: Left Shift 
+
+#  Hero State Machine View:
+![image](https://github.com/RimuruDev/HeroStateMachineExample/assets/85500556/655f3413-c2c1-4f9a-8b30-0a9f5e393cd3)
+
+# Hero:
+![image](https://github.com/RimuruDev/HeroStateMachineExample/assets/85500556/57818665-a37b-4c71-a09b-3cfdfd63f98b)
+
+# Input Logs:
+![image](https://github.com/RimuruDev/HeroStateMachineExample/assets/85500556/c248fb43-05e3-414d-bd0f-2f64664e050d)
